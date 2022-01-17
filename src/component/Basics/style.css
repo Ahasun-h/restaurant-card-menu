@@ -119,15 +119,13 @@
   }
   
   .card-tag {
-    float: right;
-    margin: 5px 0 0;
-    padding: 12px 10px;
+    margin: 13px 0 0;
     cursor: pointer;
-    border-radius: 10px;
     background: #639;
     color: #fff;
     font-size: 18px;
     text-align: center;
+    padding: 12px 46px;
   }
   
   .card-tag:hover {
